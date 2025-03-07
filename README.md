@@ -1,14 +1,14 @@
-Brain Tumor Detection and Classification
+# Brain Tumor Detection and Classification
 
-Overview
+## Overview
 
 This project focuses on detecting and classifying brain tumors using deep learning techniques. The model processes MRI scans to identify the presence of tumors and classify them into relevant categories.
 
-Features
+## Features
 
 Preprocessing: Image augmentation and normalization for better model performance.
 
-Model Training:
+## Model Training:
 
 CNN (Convolutional Neural Network): A deep learning model designed for feature extraction and classification.
 
@@ -20,7 +20,7 @@ Evaluation: Assesses model performance using various metrics.
 
 Prediction: Classifies MRI scans into different tumor types.
 
-Evaluation Metrics
+## Evaluation Metrics
 
 Accuracy: Measures the percentage of correctly classified images.
 
@@ -30,7 +30,7 @@ F1-score: Balances precision and recall for better performance assessment.
 
 Confusion Matrix: Provides insights into false positives and false negatives.
 
-Requirements
+## Requirements
 
 Python
 
